@@ -1,2 +1,2 @@
 # embers.prj
-Test repository for the ebers project
+Test repository for the embers project
