@@ -1,7 +1,5 @@
-##embers.prj
+## embers.prj
+### Test repository for the embers project
 
 
-#Test repository for the embers project
-
-
-check /design for a preview
+> check "/design" for a preview
